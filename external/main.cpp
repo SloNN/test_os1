@@ -20,4 +20,4 @@ git d  update
 d  update
 git update 2
 
-git master update
+git master update 2
