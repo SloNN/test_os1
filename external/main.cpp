@@ -14,3 +14,5 @@ new git pull
 after git merge
 
 d2
+
+new git pull 2
