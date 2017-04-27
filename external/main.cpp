@@ -16,4 +16,5 @@ after git merge
 d2
 
 new git pull 2
-git  update
+git d  update
+d  update
