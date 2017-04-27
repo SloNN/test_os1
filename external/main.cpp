@@ -13,7 +13,7 @@ new git pull
 
 after git merge
 
-d
+d2
 
-dd
-dd2
+new git pull 2
+  update
