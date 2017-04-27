@@ -18,5 +18,6 @@ d2
 new git pull 2
 git d  update
 d  update
+git update 2
 
-d svn update
+git master update
