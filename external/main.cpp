@@ -12,3 +12,5 @@ new svn
 new git pull
 
 after git merge
+
+d
