@@ -1,9 +1,7 @@
 empty
-
 new
 
 new 2
-
   new git
 
 new svn
@@ -29,3 +27,4 @@ git master update
 3
 
 for new new
+d
