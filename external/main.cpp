@@ -1,5 +1,4 @@
 empty
-
 new
 
 new 2
@@ -26,4 +25,4 @@ git master update
 
 1
 2
-3
+d
