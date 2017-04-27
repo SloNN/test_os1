@@ -20,3 +20,4 @@ git d  update
 d  update
 
 git master update
+d svn update
