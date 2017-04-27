@@ -18,3 +18,5 @@ d2
 new git pull 2
 git d  update
 d  update
+
+d svn update
