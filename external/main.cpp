@@ -8,3 +8,5 @@ new 2
 new svn
 
 new git pull
+
+after git merge
