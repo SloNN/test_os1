@@ -9,7 +9,7 @@ new git pull
 after git merge
 e
 no line no line
-below
+below 2
 d2
 
 new git pull 2
