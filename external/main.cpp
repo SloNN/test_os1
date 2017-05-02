@@ -7,7 +7,7 @@ new svn
 new git pull
 
 after git merge
-e
+e 2
 no line no line
 below 2
 d2
