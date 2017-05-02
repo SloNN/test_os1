@@ -13,6 +13,7 @@ below 2
   
   
 d2
+d3
 
 new git pull 2
 git d  update
