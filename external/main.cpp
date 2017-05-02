@@ -15,7 +15,7 @@ git update 2
 
 
 d
-git master update
+git master update 2
 
 1
 2
