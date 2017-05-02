@@ -1,7 +1,7 @@
 new 2
 new git
 
-new svn
+new svn 2
 new svn
 
 new git pull
