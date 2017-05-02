@@ -1,5 +1,5 @@
 new 2
-new git 2
+new git 2 up
 
 new svn 2
 new svn
