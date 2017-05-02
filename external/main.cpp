@@ -3,7 +3,7 @@
 
 
 new 2
-new git
+  new git
 
 new svn 3
 new svn
