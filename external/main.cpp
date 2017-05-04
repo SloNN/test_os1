@@ -1,6 +1,3 @@
-new 2
-  new git
-
 new svn
 new svn
 
@@ -18,7 +15,8 @@ git update 2
 
 
 d
-git master update
+df
+git master update 3
 
 1
 2
