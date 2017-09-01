@@ -4,17 +4,21 @@ asdfasdfasdf
 
 
 new 2
-  new git
+new git 2 up
 
-new svn
+new svn 2
 new svn
 
 new git pull
 
 after git merge
-
-no line
-d2
+e 2
+no line no line 2
+below 2
+  
+  
+d22
+d3
 
 new git pull 2
 git d  update
