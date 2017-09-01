@@ -15,7 +15,7 @@ after git merge
 
 no line
 d2
-
+ d
 new git pull 2
 git d  update
 d  update
