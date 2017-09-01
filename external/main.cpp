@@ -13,10 +13,16 @@ new git pull
 
 after git merge
 
+
+
+
+
+
+
 no line
 d2
 
-new git pull 2
+new git pull 4
 git d  update
 d  update
 git update 2
@@ -28,3 +34,5 @@ git master update
 1
 2
 d
+f
+g
