@@ -9,6 +9,7 @@ new 2
 new svn
 new svn
 
+аа
 new git pull
 
 after git merge
