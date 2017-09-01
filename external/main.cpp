@@ -11,7 +11,7 @@ new svn
 
 new git pull
 
-after git merge
+after git merge 2
 
 no line
 d2
